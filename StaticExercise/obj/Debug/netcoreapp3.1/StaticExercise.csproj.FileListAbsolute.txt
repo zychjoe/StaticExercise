@@ -1,0 +1,13 @@
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/StaticExercise/StaticExercise/bin/Debug/netcoreapp3.1/StaticExercise.deps.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/StaticExercise/StaticExercise/bin/Debug/netcoreapp3.1/StaticExercise.runtimeconfig.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/StaticExercise/StaticExercise/bin/Debug/netcoreapp3.1/StaticExercise.runtimeconfig.dev.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/StaticExercise/StaticExercise/bin/Debug/netcoreapp3.1/StaticExercise.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/StaticExercise/StaticExercise/bin/Debug/netcoreapp3.1/StaticExercise.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.csproj.AssemblyReference.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.AssemblyInfoInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.AssemblyInfo.cs
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.genruntimeconfig.cache
